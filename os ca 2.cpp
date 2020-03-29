@@ -8,7 +8,7 @@ int flag1;
 };
 struct proc p1[10];
 int i
- int j,k,n,no,m;
+int j,k,n,no,m;
 float atat=0.0,awt=0.0;
 int tbt=0;
 int minimum1();
