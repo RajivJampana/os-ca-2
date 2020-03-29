@@ -3,7 +3,8 @@ struct proc
 {
 int pid;
 int at,bt,wt,tat,rbt;
-int flag,flag1;
+int flag
+int flag1;
 };
 struct proc p1[10];
 int i,j,k,n,no,m;
