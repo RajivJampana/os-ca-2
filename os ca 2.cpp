@@ -2,7 +2,8 @@
 struct proc
 {
 int pid;
-int at,bt,wt,tat,rbt;
+int at
+int bt,wt,tat,rbt;
 int flag
 int flag1;
 };
